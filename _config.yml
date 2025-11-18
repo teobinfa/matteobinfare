@@ -1,7 +1,7 @@
 title: "Matteo Binfare"
 name: "Matteo Binfare"
 description: "Assistant Professor of Finance, University of Missouri"
-url: "https://<your-username>.github.io"
+url: "https://matteobinfare.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -18,5 +18,5 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:your.email@missouri.edu"
+      url: "mailto:mbinfare@missouri.edu"
 
