@@ -13,7 +13,7 @@ plugins:
 
 author:
   name: "Matteo Binfare"
-  avatar: "/assets/images/profile.jpg"   # place a nice professional headshot here
+  avatar: "/assets/images/binfare.jpg"   # place a nice professional headshot here
   bio: "Assistant Professor of Finance. Research on alternative assets and institutional investors."
   location: "University of Missouri"
   links:
