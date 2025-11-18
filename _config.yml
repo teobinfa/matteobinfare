@@ -4,19 +4,42 @@ description: "Assistant Professor of Finance, University of Missouri"
 url: "https://matteobinfare.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"  # try "air", "contrast", or "dirt" if you want different feels
+
+markdown: kramdown
 
 plugins:
   - jekyll-include-cache
 
-markdown: kramdown
-
 author:
   name: "Matteo Binfare"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Assistant Professor of Finance. Research on alternative assets, LPs, and institutional investors."
+  avatar: "/assets/images/profile.jpg"   # place a nice professional headshot here
+  bio: "Assistant Professor of Finance. Research on alternative assets and institutional investors."
   location: "University of Missouri"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:mbinfare@missouri.edu"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=DCDaFaEAAAAJ&hl=en"
+    - label: "SSRN"
+      icon: "ai ai-ssrn"
+      url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2709712"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/matteo-binfar%C3%A8-6375724b/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/teobinfa"
 
+# Default layout options
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "main"
