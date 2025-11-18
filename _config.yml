@@ -1,1 +1,22 @@
+title: "Matteo Binfare"
+name: "Matteo Binfare"
+description: "Assistant Professor of Finance, University of Missouri"
+url: "https://<your-username>.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+
+author:
+  name: "Matteo Binfare"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Assistant Professor of Finance. Research on alternative assets, LPs, and institutional investors."
+  location: "University of Missouri"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@missouri.edu"
 
