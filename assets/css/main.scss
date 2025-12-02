@@ -6,7 +6,7 @@
 
 /* Subtle, site-wide typography shrink (academic feel) */
 html {
-  font-size: 16px; /* default is often ~18px depending on skin; try 16px or 15px */
+  font-size: 16px;
 }
 
 .page__title {
@@ -30,32 +30,39 @@ html {
   border: 1px solid rgba(0,0,0,0.08);
   border-radius: 14px;
   padding: 0.95rem 1.05rem;
-  margin: 0.9rem 0;
-  background: #ffffff; /* cleaner for air */
+  margin: 0.95rem 0;
+  background: #ffffff;
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 
 .paper-title {
-  margin: 0;
+  margin: 0 0 0.38rem 0;          /* space under title */
   line-height: 1.2;
   font-weight: 800;
-  font-size: 1.12rem;      /* slightly smaller */
+  font-size: 1.12rem;
   letter-spacing: -0.012em;
-  color: #0b3a6e;          /* academic navy that looks great on "air" */
+  color: #0b3a6e;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .paper-authors {
-  margin-top: 0.28rem;
+  margin: 0 0 0.18rem 0;          /* space under authors */
   font-size: 0.98rem;
   font-style: italic;
   color: rgba(0,0,0,0.78);
 }
 
 .paper-journal {
-  margin-top: 0.12rem;
+  margin: 0 0 0.45rem 0;          /* space under journal before notes/details */
   font-size: 0.95rem;
   color: rgba(0,0,0,0.72);
+}
+
+/* Make the journal name (inside <em>...</em>) pop like a CV entry */
+.paper-journal em {
+  font-style: italic;
+  font-weight: 800;
+  color: rgba(0,0,0,0.82);
 }
 
 .paper-notes {
@@ -64,10 +71,14 @@ html {
   color: rgba(0,0,0,0.75);
 }
 
+.paper-notes > div {
+  margin-top: 0.22rem;            /* separates award/data lines neatly */
+}
+
 details.paper-details {
   margin-top: 0.75rem;
   border-radius: 12px;
-  background: rgba(11,58,110,0.04); /* subtle tint that matches the title */
+  background: rgba(11,58,110,0.04);
   padding: 0.6rem 0.8rem;
   border: 1px solid rgba(11,58,110,0.10);
 }
@@ -91,6 +102,14 @@ details.paper-details summary::after {
 
 details.paper-details[open] summary::after {
   transform: rotate(180deg);
+}
+
+details.paper-details p {
+  margin: 0.6rem 0 0 0;           /* tighter, cleaner abstract block */
+}
+
+.paper-links {
+  margin-top: 0.55rem;
 }
 
 .paper-links a {
