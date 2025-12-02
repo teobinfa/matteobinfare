@@ -5,20 +5,35 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+## Published Papers
 
-- **Title of Paper 1**  
+- **Investing With Purpose: Evidence From Private Foundations**  
   _with Coauthor 1 and Coauthor 2_  
   Short 2–3 line abstract or main result.  
   [Draft PDF](#) · [Online Appendix](#)
 
-- **Title of Paper 2**  
-  _Solo-authored_  
-  Short description.  
+- **A New Lease on Firm Behavior**  
+  _with Coauthor 1 and Coauthor 2_  
+  Short 2–3 line abstract or main result.  
+  [Draft PDF](#) · [Online Appendix](#)
 
-## Publications
+  - **Paying Managers of Complex Portfolios: Evidence on Compensation and Performance from Endowments**  
+  _with Coauthor 1 and Coauthor 2_  
+  Short 2–3 line abstract or main result.  
+  [Draft PDF](#) · [Online Appendix](#)
 
-- **Published Paper 1**  
+- **How Does Human Capital Affect Investing? Evidence from University Endowments**  
+  _with Coauthor 1 and Coauthor 2_  
+  Short 2–3 line abstract or main result.  
+  [Draft PDF](#) · [Online Appendix](#)
+
+## Working Papers
+
+- **Benchmarking Private Equity Portfolios: Evidence from Pension Funds**  
+  _Journal Name, Year_  
+  [Journal link](#) · [Ungated PDF](#)
+
+  - **The Real Effects of Operational Risk: Evidence from Data Breaches**  
   _Journal Name, Year_  
   [Journal link](#) · [Ungated PDF](#)
 
