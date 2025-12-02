@@ -25,54 +25,56 @@ html {
   font-size: 1.0em;
 }
 
-/* --- Research page paper cards --- */
+/* --- Research page paper cards (tuned for "air") --- */
 .paper-card {
-  border: 1px solid rgba(0,0,0,0.10);
+  border: 1px solid rgba(0,0,0,0.08);
   border-radius: 14px;
-  padding: 0.9rem 1rem;
+  padding: 0.95rem 1.05rem;
   margin: 0.9rem 0;
-  background: rgba(0,0,0,0.02);
+  background: #ffffff; /* cleaner for air */
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 
 .paper-title {
   margin: 0;
   line-height: 1.2;
-  font-weight: 750;
-  font-size: 1.15rem;
-  letter-spacing: -0.01em;
-  color: #123a6f;              /* tasteful academic blue */
+  font-weight: 800;
+  font-size: 1.12rem;      /* slightly smaller */
+  letter-spacing: -0.012em;
+  color: #0b3a6e;          /* academic navy that looks great on "air" */
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .paper-authors {
-  margin-top: 0.25rem;
+  margin-top: 0.28rem;
   font-size: 0.98rem;
   font-style: italic;
-  opacity: 0.9;
+  color: rgba(0,0,0,0.78);
 }
 
 .paper-journal {
-  margin-top: 0.15rem;
+  margin-top: 0.12rem;
   font-size: 0.95rem;
-  opacity: 0.85;
+  color: rgba(0,0,0,0.72);
 }
 
 .paper-notes {
-  margin-top: 0.5rem;
-  font-size: 0.95rem;
-  opacity: 0.9;
+  margin-top: 0.55rem;
+  font-size: 0.94rem;
+  color: rgba(0,0,0,0.75);
 }
 
 details.paper-details {
-  margin-top: 0.7rem;
+  margin-top: 0.75rem;
   border-radius: 12px;
-  background: rgba(0,0,0,0.03);
-  padding: 0.55rem 0.75rem;
+  background: rgba(11,58,110,0.04); /* subtle tint that matches the title */
+  padding: 0.6rem 0.8rem;
+  border: 1px solid rgba(11,58,110,0.10);
 }
 
 details.paper-details summary {
   cursor: pointer;
-  font-weight: 700;
+  font-weight: 800;
   list-style: none;
 }
 
@@ -83,7 +85,7 @@ details.paper-details summary::-webkit-details-marker {
 details.paper-details summary::after {
   content: "▾";
   float: right;
-  opacity: 0.7;
+  opacity: 0.65;
   transition: transform 0.15s ease;
 }
 
@@ -93,17 +95,18 @@ details.paper-details[open] summary::after {
 
 .paper-links a {
   display: inline-block;
-  margin: 0.25rem 0.4rem 0 0;
-  padding: 0.25rem 0.55rem;
+  margin: 0.25rem 0.45rem 0 0;
+  padding: 0.26rem 0.6rem;
   border-radius: 999px;
-  border: 1px solid rgba(0,0,0,0.12);
+  border: 1px solid rgba(11,58,110,0.18);
   text-decoration: none;
-  font-weight: 700;
-  font-size: 0.92rem;
-  background: rgba(255,255,255,0.7);
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: #0b3a6e;
+  background: rgba(255,255,255,0.9);
 }
 
 .paper-links a:hover {
+  border-color: rgba(11,58,110,0.32);
   text-decoration: none;
-  border-color: rgba(0,0,0,0.22);
 }
