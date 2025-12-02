@@ -4,7 +4,7 @@ description: "Assistant Professor of Finance, University of Missouri"
 url: "https://matteobinfare.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"  # try "air", "contrast", or "dirt" if you want different feels
+minimal_mistakes_skin: "air"
 
 markdown: kramdown
 
