@@ -46,7 +46,7 @@ You can find syllabi and student evaluations (including comments) here:
 
   <details class="course-details" open>
     <summary>Course Description</summary>
-    <p><em>(Add a 3–6 sentence description here—happy to draft it in the same style as your Alternative Investments description.)</em></p>
+    <p><em>This course provides a rigorous theoretical and practical introduction to investments. We examine the investment environment faced by households and institutions, survey major asset classes and trading instruments, and discuss the roles of key financial intermediaries. The analytical core of the course centers on risk, return, diversification, and the foundations of asset pricing. Students learn how to value individual securities and integrate them into well-constructed portfolios. Course content is regularly tied to current financial news, with hands-on use of real-world data to develop quantitative and intuitive understanding of markets.</em></p>
 
     <div class="course-links">
       <a href="#">Syllabus</a>
@@ -72,7 +72,7 @@ You can find syllabi and student evaluations (including comments) here:
 
   <details class="course-details" open>
     <summary>Course Description</summary>
-    <p><em>(Add a short description here—what students covered, format, visits, cases, etc.)</em></p>
+    <p><em>This course provides a rigorous introduction to corporate finance, combining theory with practical decision-making in a corporate setting. Topics include the time value of money, capital budgeting and project evaluation, the cost of capital, working capital management, and the firm’s financing choices and financial instruments. The goal is to build a framework for analyzing how firms create value and make investment and financing decisions under uncertainty.</em></p>
 
     <div class="course-links">
       <a href="#">Syllabus</a>
