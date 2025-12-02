@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes)
+---
+
+@import "minimal-mistakes";
+
+/* Subtle, site-wide typography shrink (academic feel) */
+html {
+  font-size: 16px; /* default is often ~18px depending on skin; try 16px or 15px */
+}
+
+.page__title {
+  font-size: 1.8em;
+}
+
+.archive__item-title {
+  font-size: 1.2em;
+}
+
+.sidebar .author__name {
+  font-size: 1.05em;
+}
+
+.sidebar .author__bio {
+  font-size: 0.9em;
+}
