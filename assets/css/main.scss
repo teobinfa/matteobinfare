@@ -242,10 +242,12 @@ details.course-details[open] summary::after {
   font-weight: 700;
 }
 
-/* --- Author avatar size tweak --- */
+/* --- Author avatar size & shape --- */
 .author__avatar img {
-  max-width: 130px;  /* try 130–140; default is smaller */
-  border-radius: 50%;
+  max-width: 150px;    /* try 150–170px if you want it even bigger */
+  border-radius: 0;    /* 0 = square corners; try 8px for subtle rounding */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+  border: 1px solid rgba(0,0,0,0.08);
 }
 
 
