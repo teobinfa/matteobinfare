@@ -218,3 +218,47 @@ details.course-details[open] summary::after {
   border-color: rgba(11,58,110,0.32);
   text-decoration: none;
 }
+
+/* --- Sidebar / index font tweaks --- */
+
+/* Main sidebar nav ("Home / Research / Teaching / CV") */
+.sidebar .nav__title {
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.sidebar .nav__item a {
+  font-size: 0.98rem;
+}
+
+/* Right-hand "On this page" table of contents, if present */
+.toc,
+.toc__menu {
+  font-size: 0.96rem;
+}
+
+.toc__title {
+  font-size: 0.98rem;
+  font-weight: 700;
+}
+
+/* --- Author avatar size tweak --- */
+.author__avatar img {
+  max-width: 130px;  /* try 130–140; default is smaller */
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
