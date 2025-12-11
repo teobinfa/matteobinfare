@@ -242,17 +242,14 @@ details.course-details[open] summary::after {
   font-weight: 700;
 }
 
-/* --- Author avatar size & shape --- */
-.author__avatar img {
-  max-width: 150px;    /* try 150–170px if you want it even bigger */
-  border-radius: 0;    /* 0 = square corners; try 8px for subtle rounding */
+/* --- Author avatar size & shape (override Minimal Mistakes .u-photo) --- */
+.sidebar .author__avatar .u-photo,
+.author__avatar .u-photo {
+  max-width: 160px;              /* adjust 150–180px to taste */
+  border-radius: 0 !important;   /* force square corners */
   box-shadow: 0 1px 3px rgba(0,0,0,0.12);
   border: 1px solid rgba(0,0,0,0.08);
 }
-
-
-
-
 
 
 
