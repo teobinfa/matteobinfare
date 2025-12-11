@@ -6,7 +6,7 @@ author_profile: true
 
 I am an Assistant Professor of Finance at the Trulaske College of Business, University of Missouri.  
 
-My research focuses on alternative investments (private equity and hedge funds), institutional investors (university endowments, foundations, and pension funds), and empirical corporate finance.  
+My research focuses on alternative investments (private equity and hedge funds) and institutional investors (university endowments, foundations, and pension funds). It has been published in journals including The Journal of Finance, Journal of Financial and Quantitative Analysis, and Review of Finance.
 
 You can find my CV [here](/cv/).
 
