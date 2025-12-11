@@ -22,4 +22,4 @@ Alternative investments and performance measurement · institutional investors a
 - **Certification:** CFA® charterholder
 
 ### Personal
-I enjoy running, soccer, and cooking. Before college, I played professional and semi-professional soccer in Italy. My wife Casey is an emergency room nurse and teaching professor at the University of Missouri, and we have a daughter, Mia. I am also a long-term cancer survivor and participate in fundraising activities.
+I enjoy running, soccer, and cooking. Before college, I played professional and semi-professional soccer in Italy. My wife [Casey](https://business.missouri.edu/){: .university-link} is an emergency room nurse and teaching professor at the University of Missouri, and we have a daughter, Mia. I am also a long-term cancer survivor and participate in fundraising activities.
