@@ -16,9 +16,8 @@ author_profile: true
     <summary>Abstract &amp; Links</summary>
     <p><strong>Abstract.</strong> We study the asset allocation and investment performance of U.S. private foundations that support the charitable sector. Large foundations generated positive risk-adjusted returns before 2008, driven by early access to private equity and venture capital funds, but have underperformed since. The median foundation underperforms by more than 100 basis points. Foundations with concentrated stock holdings achieve higher returns but assume more risk. Due to the constraints imposed by the 5% minimum spending rule and accommodating monetary policy, foundations increase risk-taking and reach for yield. Over time, a conservative asset allocation decreases real wealth, reducing charitable giving.</p>
     <p class="paper-links">
-      <a href="#">Paper</a>
+      <a href="#">Journal</a>
       <a href="#">Online Appendix</a>
-      <a href="#">Slides</a>
     </p>
   </details>
 </div>
@@ -54,6 +53,7 @@ author_profile: true
     <p><strong>Abstract.</strong> We examine compensation for endowment Chief Investment Officers (CIOs) overseeing portfolios with significant allocations to alternatives. We find widespread use of bonuses and that large endowments with high alternative allocations hire CIOs with stronger backgrounds, pay them more, and have higher pay-for-performance sensitivity. We find weak evidence of a relationship between compensation and future performance. Our results align with contract theory predictions but differ from empirical findings on pension funds. Endowments pay CIOs more, rely more on bonuses, attract more experienced professionals, and have lower turnover than pensions. This suggests more effective talent management compared to politically influenced public pensions.</p>
     <p class="paper-links">
       <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/paying-managers-of-complex-portfolios-evidence-on-compensation-and-performance-from-endowments/6139DAA74B041AA16A51D8CAA3BC9F16">Journal</a>
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3504212">SSRN</a>
     </p>
   </details>
 </div>
@@ -96,8 +96,6 @@ author_profile: true
     <p><strong>Abstract.</strong> We document significant heterogeneity in benchmarks used for US public pension fund private equity (PE) portfolios. Benchmark type (e.g., public vs. private, domestic vs. global), spread, and complexity vary predictably with PE allocations and specialty consultant use. General consultant turnover predicts PE benchmark changes, and leads to broader operational shifts; after a general consultant change, there is a 7% higher probability of PE consultant turnover. Public pension funds beat their PE benchmarks about half the time, but over the last 20 years, benchmarks consistently became easier to beat. We attribute benchmark changes to consultants' labor market incentives to expand their client portfolio, rather than changing private equity return expectations.</p>
     <p class="paper-links">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590271">SSRN</a>
-      <a href="#">Slides</a>
-      <a href="#">Appendix</a>
     </p>
   </details>
 </div>
