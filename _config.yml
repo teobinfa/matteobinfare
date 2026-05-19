@@ -1,8 +1,9 @@
 title: "Matteo Binfarè – Assistant Professor of Finance"
 name: "Matteo Binfarè"
 description: "Assistant Professor of Finance, University of Missouri"
-url: "https://matteobinfare.github.io"
 
+url: "https://teobinfa.github.io"
+baseurl: "/matteobinfare"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
