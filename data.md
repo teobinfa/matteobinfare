@@ -5,8 +5,6 @@ permalink: /data/
 author_profile: true
 ---
 
-# Data & Code
-
 <div class="paper-card">
   <h3 class="paper-title">A New Lease on Firm Behavior</h3>
   <div class="paper-authors">Updated data underlying the paper</div>
@@ -93,5 +91,6 @@ author_profile: true
       <li><code>OPLEASE_DR</code>: The weighted average discount rate used to value operating lease liabilities, disclosed in accordance with ASC 842</li>
       <li><code>OPLEASE_WAL</code>: The weighted average remaining life of operating leases, in accordance with ASC 842</li>
     </ul>
+
   </details>
 </div>
