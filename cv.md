@@ -7,4 +7,4 @@ author_profile: true
 
 You can download my full CV here:
 
-- [Download CV (PDF)](/assets/binfare-cv.pdf)
+- [Download CV (PDF)]({{ "/assets/binfare-cv.pdf" | relative_url }})
