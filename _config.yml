@@ -3,7 +3,7 @@ name: "Matteo Binfarè"
 description: "Assistant Professor of Finance, University of Missouri"
 
 url: "https://matteobinfare.github.io"
-baseurl: "/matteobinfare"
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
