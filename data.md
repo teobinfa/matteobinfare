@@ -12,7 +12,7 @@ author_profile: true
   <div class="paper-authors">Updated data underlying the paper</div>
 
   <details class="paper-details" open>
-    <summary>Data Description &amp; Download</summary>
+    <summary>Data Description, Download &amp; Summary Statistics</summary>
 
     <p>
       This page provides an updated version of the data underlying our paper
@@ -45,14 +45,8 @@ author_profile: true
     <p class="paper-links">
       <a href="https://drive.google.com/file/d/1eCLv2PRYfw9X5bw9Dii3zwda0A8u-Jj3/view">Data (zipped .xlsx file)</a>
     </p>
-  </details>
-</div>
 
-<div class="paper-card">
-  <h3 class="paper-title">Summary Statistics</h3>
-
-  <details class="paper-details" open>
-    <summary>Summary Statistics &amp; Variable Definitions</summary>
+    <h4>Summary Statistics</h4>
 
     <div class="summary-table-wrap">
       <table class="summary-table">
@@ -90,7 +84,7 @@ author_profile: true
       </table>
     </div>
 
-    <p>The data contains the following variables:</p>
+    <h4>Variable Definitions</h4>
 
     <ul>
       <li><code>CIK</code>: The Central Index Key of the filer</li>
